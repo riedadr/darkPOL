@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.70.0"
   },
-  "icon": "icons/darkCIT.png",
+  "icon": "icons/darkPOL.png",
   "author": {
     "name": "cit116",
     "email": "riedadr@gmail.com"
