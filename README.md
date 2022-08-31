@@ -39,6 +39,6 @@ _subject to change without notice_
 | ![](https://singlecolorimage.com/get/475569/20x20) | `#475569` | slate-600   | comments                                                                              |
 | ![](https://singlecolorimage.com/get/334155/20x20) | `#334155` | slate-700   | window borders (vscode)                                                               |
 | ![](https://singlecolorimage.com/get/1d212f/20x20) | `#1d212f` | nA          | window background (vscode)                                                            |
-| ![](https://singlecolorimage.com/get/#008dc/20x20) | `#008dc9` | nA          | window accent color (vscode), buttons, debugging status bar, border of active element |
+| ![](https://singlecolorimage.com/get/008dc/20x20) | `#008dc9` | nA          | window accent color (vscode), buttons, debugging status bar, border of active element |
 
 the keys of JSON are colored by level from blue to red
